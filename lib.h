@@ -1,1 +1,6 @@
+#ifndef MAX_ARRAY_ESERCITAZIONE_7_LIB_H
+#define MAX_ARRAY_ESERCITAZIONE_7_LIB_H
 
+float array (float a[], int);
+
+#endif //MAX_ARRAY_ESERCITAZIONE_7_LIB_H
